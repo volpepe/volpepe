@@ -23,6 +23,7 @@ This is just a clunky way to transition to the next section:
 * JavaScript (and its fella, JQuery)
 * HTML + CSS
 * Docker
+* Arduino
 
 ### Regarding Python, I've been using it for my Machine Learning and Deep Learning projects, so here's a few libraries I've been using (and I totally love!!):
 * NumPy
