@@ -25,7 +25,7 @@ This is just a clunky way to transition to the next section:
 * Docker
 * Arduino
 
-### Regarding Python, I've been using it for my Machine Learning and Deep Learning projects, so here's a few libraries I've been using (and I totally love!!):
+### Regarding Python, I've been using it for my Machine Learning and Deep Learning projects, so here's a few libraries I love working with!!:
 * NumPy
 * OpenCV
 * Pillow
@@ -69,14 +69,12 @@ I often indulge in gaming as well. Some of my favourite videogames are:
 
 and many more. My favourite nostalgia game is **Spyro - Year of the Dragon** from the PS1 era. I used to be **obsessed** with Spyro in my childhood. I'm also a huge fan of Metroidvanias and D&D.
 
-I'm not a big fan of cooking, but I'm trying to learn. 
-
 Also, I'm a furry. Sorry. [Here's my fursona](https://imgur.com/a/SiyQ0Hx). His name is Conrad.
 
 🌈🌈🌈
 
 # Let's talk!👂
-You can find me on a lot of social media, but uhh... It's not a good idea to share my profiles in here. Here are the most innocuous.
+You can find me on a lot of social media, but uhh... It's not a good idea to share my private profiles in here. Here are the most innocuous.
 
 [![Steam](https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/volpepe/)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/volpepe)
