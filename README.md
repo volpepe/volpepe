@@ -6,13 +6,9 @@ Hey everyone, I'm **Federico Cichetti**, an Italian guy who's been around since 
 
 I've graduated in **Computer Science and Engineering** (did this in Cesena, my hometown) with **110/110 with honours** and I'm currently studying for my master in **Artificial Intelligence** (here I moved to Bologna: 😲) at **Alma Mater Studiorum - Università di Bologna**. 
 
-Here's some pointless stats:
-
-[![volpepe's github stats](https://github-readme-stats.vercel.app/api?username=volpepe&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volpepe&langs_count=8&hide=tsql,hack)](https://github.com/anuraghazra/github-readme-stats)
 
 In my bachelor's degree I've seen many languages and worked on different projects with different aims. I worked on a Frogger clone with Java and JavaFX and on a fake food delivery web-application with a team of colleagues. I've also developed a web application that interacted with the wearable brain sensing headband Muse using Web Bluetooth in my curricular internship and scripted a Blender rendering routine for automatically generating a dataset in Python for my thesis. 
-
-This is just a clunky way to transition to the next section:
 
 # Technologies I really like 🥰
 
