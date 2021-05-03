@@ -4,11 +4,9 @@ Hey everyone, I'm **Federico Cichetti**, an Italian guy who's been around since 
 
 🦊 **volpepe** is my professionally-crafted fine-tuned programmer nickname, as I really love **foxes** ("volpe" in Italian).
 
-I've graduated in **Computer Science and Engineering** (did this in Cesena, my hometown) with **110/110 with honours** and I'm currently studying for my master in **Artificial Intelligence** (here I moved to Bologna: 😲) at **Alma Mater Studiorum - Università di Bologna**. 
+I've graduated in **Computer Science and Engineering** with **110/110 with honours** and I'm currently studying for the master degree in **Artificial Intelligence** at **Alma Mater Studiorum - Università di Bologna**. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volpepe&langs_count=8&hide=tsql,hack)](https://github.com/anuraghazra/github-readme-stats)
-
-In my bachelor's degree I've seen many languages and worked on different projects with different aims. I worked on a Frogger clone with Java and JavaFX and on a fake food delivery web-application with a team of colleagues. I've also developed a web application that interacted with the wearable brain sensing headband Muse using Web Bluetooth in my curricular internship and scripted a Blender rendering routine for automatically generating a dataset in Python for my thesis. 
+In my bachelor's degree I've seen many languages and worked on different projects with different aims. I worked on a Frogger clone with Java and JavaFX and on a fake food delivery web-application with a team of colleagues. I've also developed a web application that interacted with the wearable brain-sensing headband Muse using Web Bluetooth in my curricular internship and scripted a Blender rendering routine for automatically generating a dataset in Python for my thesis. 
 
 # Technologies I really like 🥰
 
@@ -44,11 +42,11 @@ I've had the pleasure to work on some really **BUFF** servers for both my thesis
 
 I love a wide range of music genres: indie/math/prog rock, electronic of any kind, chillhop, alternative hip-hop and even classical music sometimes. You can get a sense of what I usually listen from [this playlist](https://open.spotify.com/embed/playlist/1T4VfvXqcOVPF4iR8Cw8tI).
 
-Even though I mostly listen to the same songs over and over, it's a playlist from two years ago, so it's not super updated. Down below you can have a clearer picture of my recent plays:
+Also, from here:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrcicco&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=mrcicco&redirect=true)
 
-I also like watching and talking about movies. Here's my [Letterboxd profile](https://letterboxd.com/volpepe/) where I log and rate all of the movies I watch pretending to be a cinephile.
+I also like watching and talking about movies. Here's my [Letterboxd profile](https://letterboxd.com/volpepe/) where I log and rate all the movies I watch pretending to be a cinephile.
 
 A great passion of mine is video editing! I've been editing videos since I was 15 and I have a [YouTube channel](https://www.youtube.com/c/ciccosity) with some vlogs and stuff. I've also worked for some local companies as a freelance video-editor. I'm a self-taught Vegas Pro user, but maybe I'll switch to Premiere in the future?? Who knows!!
 
