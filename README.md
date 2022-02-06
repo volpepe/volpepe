@@ -4,9 +4,7 @@ Hey everyone, I'm **Federico Cichetti**, an Italian guy who's been around since 
 
 🦊 **volpepe** is my professionally-crafted fine-tuned programmer nickname, as I really love **foxes** ("volpe" in Italian).
 
-I've graduated in **Computer Science and Engineering** with **110/110 with honours** and I'm currently studying for the master degree in **Artificial Intelligence** at **Alma Mater Studiorum - Università di Bologna**. 
-
-In my bachelor's degree I've seen many languages and worked on different projects with different aims. I worked on a Frogger clone with Java and JavaFX and on a fake food delivery web-application with a team of colleagues. I've also developed a web application that interacted with the wearable brain-sensing headband Muse using Web Bluetooth in my curricular internship and scripted a Blender rendering routine for automatically generating a dataset in Python for my thesis. 
+I've graduated in **Computer Science and Engineering** with **110/110 with honours** and I'm currently studying for the master degree in **Artificial Intelligence** at **Alma Mater Studiorum - Università di Bologna**.
 
 # Technologies I really like 🥰
 
@@ -29,8 +27,9 @@ In my bachelor's degree I've seen many languages and worked on different project
 * youtube-dl (lol)
 
 ### Last but not least, I loved working with these bad bois:
-* C/C++ (and Assembly, just a tiny bit... 😳)
+* Scala
 * LaTeX
+* C/C++ (and Assembly, just a tiny bit... 😳)
 * SQL
 * Linux
 * Vue.js
@@ -38,32 +37,28 @@ In my bachelor's degree I've seen many languages and worked on different project
 
 I've had the pleasure to work on some really **BUFF** servers for both my thesis and other projects, and I can't thank the creators of tools such as **byobu** and **Docker** enough. They basically saved my life...
 
-# Other things about me 🙊
+# Other things about me
 
 I love a wide range of music genres: indie/math/prog rock, electronic of any kind, chillhop, alternative hip-hop and even classical music sometimes. You can get a sense of what I usually listen from [this playlist](https://open.spotify.com/embed/playlist/1T4VfvXqcOVPF4iR8Cw8tI).
 
-Also, from here:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrcicco&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=mrcicco&redirect=true)
-
 I also like watching and talking about movies. Here's my [Letterboxd profile](https://letterboxd.com/volpepe/) where I log and rate all the movies I watch pretending to be a cinephile.
 
-A great passion of mine is video editing! I've been editing videos since I was 15 and I have a [YouTube channel](https://www.youtube.com/c/ciccosity) with some vlogs and stuff. I've also worked for some local companies as a freelance video-editor. I'm a self-taught Vegas Pro user, but maybe I'll switch to Premiere in the future?? Who knows!!
+A great passion of mine is video editing! I've been editing videos since I was 15 and I have a [YouTube channel](https://www.youtube.com/c/ciccosity) with some vlogs and stuff. I've also worked for some local companies as a freelance video-editor. I'm a self-taught Vegas Pro user, but maybe I'll switch to Premiere in the future?? Who knows!
 
 I often indulge in gaming as well. Some of my favourite videogames are:
 * Portal 2
 * Hollow Knight
 * Night in the Woods
-* Undertale 
+* Undertale
 * Fallout New Vegas
 * Skyrim
 * Half Life 2
 * The Legend of Zelda - Breath of the Wild
 * Divinity Original Sin 2
 
-and many more. My favourite nostalgia game is **Spyro - Year of the Dragon** from the PS1 era. I used to be **obsessed** with Spyro in my childhood. I'm also a huge fan of Metroidvanias and D&D.
+and many more. My favourite nostalgia game is **Spyro - Year of the Dragon** from the PS1 era. I'm gonna cry if I don't find another D&D group soon.
 
-Also, I'm a furry. Sorry. [Here's my fursona](https://imgur.com/a/SiyQ0Hx). His name is Conrad.
+*Ahem* Since you're reading this, here's a link to a gallery of commissions I have of [my fursona](https://imgur.com/a/SiyQ0Hx). His name is Conrad. Yeah, sorry.
 
 🌈🌈🌈
 
@@ -71,5 +66,6 @@ Also, I'm a furry. Sorry. [Here's my fursona](https://imgur.com/a/SiyQ0Hx). His 
 You can find me on a lot of social media, but uhh... It's not a good idea to share my private profiles in here. Here are the most innocuous.
 
 [![Steam](https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/volpepe/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/volpepep)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/volpepe)
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/federico.cichetti)
