@@ -9,8 +9,7 @@ I've graduated in **Computer Science and Engineering** with **110/110 with honou
 # Technologies I've used
 
 ### My all time favourite technologies/languages are:
-* Python
-  * ...and its many libraries for machine learning/neural networks/scientific computation, including:
+* Python, and its many libraries for machine learning/neural networks/scientific computation, including:
   * Numpy
   * Pandas
   * scikit-learn
