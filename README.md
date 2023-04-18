@@ -9,27 +9,20 @@ I've graduated in **Computer Science and Engineering** with **110/110 with honou
 # Technologies I've used
 
 ### My all time favourite technologies/languages are:
-* Python, and its many libraries for machine learning/neural networks/scientific computation, including:
-  * Numpy
-  * Pandas
-  * scikit-learn
-  * Tensorflow and Keras
-  * Pytorch
-  * ...
-* Docker
-* Java
+* Python, and its many libraries for machine learning/neural networks/scientific computation (numpy, pandas, scikit-learn, TensorFlow, Keras, PyTorch, ...)
 * Bash
+* Docker
 * Arduino
+* LaTeX
 
 ### ... but I also enjoyed using these:
 * JS, HTML, CSS, PHP, SQL and all that web stuff
-* Scala
-* LaTeX
+* Java & Scala
 * C/C++ (and a little bit of Assembly...)
 
 # Other things about me
 
-I love a wide range of music genres: indie/math/prog rock, electronic of any kind, chillhop, alternative hip-hop and even classical music sometimes. You can get a sense of what I usually listen from [this playlist](https://open.spotify.com/embed/playlist/1T4VfvXqcOVPF4iR8Cw8tI).
+I love a wide range of music genres: you can get a sense of what I usually listen from [this playlist](https://open.spotify.com/embed/playlist/1T4VfvXqcOVPF4iR8Cw8tI).
 
 In my free time I mostly watch movies and play videogames. Here's my [Letterboxd profile](https://letterboxd.com/volpepe/) and my [Steam profile](https://steamcommunity.com/id/volpepe/). 
 
