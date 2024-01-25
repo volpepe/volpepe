@@ -4,7 +4,7 @@ Hey everyone, I'm **Federico Cichetti**, an Italian guy who's been around since 
 
 🦊 **volpepe** is my professionally-crafted fine-tuned programmer nickname, as I really love **foxes** ("volpe" in Italian).
 
-I've graduated in **Computer Science and Engineering** with **110/110 with honours** and I'm currently studying for the master degree in **Artificial Intelligence** at **Alma Mater Studiorum - Università di Bologna**.
+I have a MSc in **Artificial Intelligence** and a BSc in **Computer Science and Engineering**, both achieved **with honours** at **Alma Mater Studiorum - Università di Bologna**.
 
 You can find my curriculum [here](https://drive.google.com/file/d/1896c7q0FP4jTZPDEyvIkTtkkrCbaBCAS/view?usp=sharing)!
 
