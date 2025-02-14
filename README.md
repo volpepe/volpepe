@@ -10,18 +10,22 @@ You can find my curriculum [here](https://drive.google.com/file/d/1896c7q0FP4jTZ
 
 # Technologies I've used
 
-### My all time favourite technologies/languages are:
+### Things I'm good at:
 * Python, and its many libraries for machine learning/neural networks/scientific computation (numpy, pandas, scikit-learn, TensorFlow, Keras, PyTorch, ...)
 * Bash
 * Docker
-* Arduino
 * LaTeX
 
-### ... but I also enjoyed using these:
+### Things I'm learning:
+* C++
+* Rust
+
+### Things I haven't used in a while, but I used to like quite a lot:
 * JS, HTML, CSS, PHP and all that web stuff
+* Arduino
 * Java & Scala
 * SQL
-* C/C++ (and a little bit of Assembly...)
+* Assembly
 
 # Other things about me
 
