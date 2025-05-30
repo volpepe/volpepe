@@ -1,38 +1,39 @@
-# Hi!! 👋🦊
+# 👋🦊
 
-Hey everyone, I'm **Federico Cichetti**, an Italian guy who's been around since **1997**. 
+Hey everyone, I'm **Federico Cichetti** an italian guy who's had unrestricted internet access since **1997**. 
 
-🦊 **volpepe** is my professionally-crafted fine-tuned programmer nickname, as I really love **foxes** ("volpe" in Italian).
+Online, I go by **volpepe** — a lovingly finetuned nickname born from my obsession with foxes (🦊 = volpe).
 
-I have a MSc in **Artificial Intelligence** and a BSc in **Computer Science and Engineering**, both achieved **with honours** at **Alma Mater Studiorum - Università di Bologna**.
+## 🧠 About Me
 
-You can find my curriculum [here](https://drive.google.com/file/d/1896c7q0FP4jTZPDEyvIkTtkkrCbaBCAS/view?usp=sharing)!
+🎓 I hold a MSc in Artificial Intelligence and a BSc in Computer Science and Engineering, both earned cum laude at Alma Mater Studiorum – Università di Bologna.
 
-# Technologies I've used
+🛠️ I'm a deep learning software engineer. I love creating and automating stuff. 
 
-### Things I'm good at:
-* Python, and its many libraries for machine learning/neural networks/scientific computation (numpy, pandas, scikit-learn, TensorFlow, Keras, PyTorch, ...)
-* Bash
-* Docker
-* LaTeX
+📄 [Check out my CV](https://drive.google.com/file/d/1896c7q0FP4jTZPDEyvIkTtkkrCbaBCAS/view?usp=sharing).
 
-### Things I'm learning:
-* C++
-* Rust
+## ⚙️ Tech Stack
 
-### Things I haven't used in a while, but I used to like quite a lot:
-* JS, HTML, CSS, PHP and all that web stuff
-* Arduino
-* Java & Scala
-* SQL
-* Assembly
+🐍 **Python**: I use it everyday, especially for machine learning, deep learning and data analysis: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas & co.
 
-# Other things about me
+🐚🐳📜 I like automating stuff with **Bash**, containerizing chaos with **Docker** and writing my reports in **LaTeX** (it looks really good!!).
 
-A great passion of mine is **video editing**! I've been editing videos since I was 15 and, more recently, I've also worked for some local companies as a freelance video-editor! Some of my works (mostly vlogs and sketches) are on my [YouTube channel](https://www.youtube.com/c/ciccosity).
+🖥️ I'm currently learning **C++** to squeeze out maximum performance from my hardware. 
 
-I love a wide range of music genres: you can get a sense of what I usually listen from [this huge playlist](https://open.spotify.com/embed/playlist/1T4VfvXqcOVPF4iR8Cw8tI). Apart from listening, I also like to **create music**: I write, sing and play classic and electric guitar in some personal WIP musical projects. 
+🔧 I'm also trying to reconnect with some old college friends: **Java**, **Assembly**, **Arduino**.
 
-When I have some free time, I like watching movies or playing videogames. Here's my [Letterboxd profile](https://letterboxd.com/volpepe/) and my [Steam profile](https://steamcommunity.com/id/volpepe/). 
+## 🎥 Creative Side Quests
 
-🌈🌈🌈
+I should probably sleep more, but here's what I do instead:
+
+✂️ **Video Editing** → Some freelance stuff + chaotic shitposting on YouTube (since I was 15!)
+
+🎵 **Making music** → I write, sing, and play guitar in a mysterious WIP musical project
+
+✍️ **Writing** → I've invented characters and stories for my whole life: I genuinely love trying to put them down on paper
+
+🎭 **Roleplaying && Tabletop Gaming** → Passionate about collaborative storytelling, character drama, worldbuilding and throwing dices
+
+🎮 **Media consuming** → [Letterboxd](https://letterboxd.com/volpepe/) • [Steam](https://steamcommunity.com/id/volpepe/)
+
+🎧 **Listening to weird sounds on repeat** → [huge playlist of all my favourite songs](https://open.spotify.com/embed/playlist/1T4VfvXqcOVPF4iR8Cw8tI)
